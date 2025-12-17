@@ -4,7 +4,7 @@ Version: 1.0.0
 A simple automatic night door lock system for FiveM servers using ox_doorlock, synced with cd_easytime, and notifications via ox_lib.
 Locks doors at night and unlocks them in the morning automatically.
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 # Features
     •    🌙 Automatic night lock for selected doors
